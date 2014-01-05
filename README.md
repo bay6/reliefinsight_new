@@ -1,6 +1,5 @@
 reliefinsight
 =============
-\
 
 resource:
 
